@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^20.0.2"
+    "electron": "^21.2.0"
+  },
+  "dependencies": {
+    "electron-spawn": "^5.0.0",
+    "spawner": "^0.0.1"
   }
 }
